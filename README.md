@@ -1,5 +1,5 @@
 # PublayNetSharp
-Extract and convert PubLayNet data to PageXml format
+Extract and convert [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) data to PageXml format
 
 # Related projects
 - [PdfPig Svm Region Classifier](https://github.com/BobLd/PdfPigSvmRegionClassifier)
